@@ -1,6 +1,6 @@
 # Diaspblogger
 
-A simple command line tool for posting to the [Diaspora](https://diasporafoundation.org) microblogging network. Allows user to write or import `.txt` files and deploy them as posts to their Diaspora pod account. Written as a quick and dirty solution for blogging with Diaspora utilizing the `Diaspy` module. (Minimally) tested on macOS Sierra 10.12.2 with Python3 3.4.1 using `vim` or `sublime -w` as the editor configuration and diasp.org as the pod. The `.txt` file can be written with Markdown syntax, as Diaspora will render Markdown. However, I've only tested this with Markdown syntax for text (links, quotes, code blocks, etc) and not much else. 
+A simple command line tool for posting to the [Diaspora](https://diasporafoundation.org) microblogging network. Allows user to write or import `.txt` files and deploy them as posts to their Diaspora pod account. Written as a quick and dirty solution for blogging with Diaspora utilizing the `Diaspy` module. (Minimally) tested on macOS Sierra 10.12.2 with Python3 3.4.1 using `vim` or `sublime -w` as the editor configuration and `diasp.org` as the pod. The `.txt` file can be written with Markdown syntax, as Diaspora will render Markdown. However, I've only tested this with Markdown syntax for text (links, quotes, code blocks, etc) and not much else. 
 
 ## Dependencies
 
