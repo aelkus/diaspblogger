@@ -11,7 +11,7 @@ A simple command line tool for posting to the [Diaspora](https://diasporafoundat
 
 ### Installation 
 
-if you have the dependencies, clone this repository to a director of your choice. Next, `cd` into the repo and edit the `cfg.ini` file. 
+if you have the dependencies, clone this repository to a directory of your choice. Next, `cd` into the repo and edit the `cfg.ini` file. 
 
 * `diaspPod` should have the name of your Diaspora pod (for ex, https://diasp.org) ). 
 * `diaspUsername` should have your Diaspora username (for ex, harambe, doge, or harambe_doge, etc). 
